@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175844725567",
+    "project_id": "tp-projet-mobile-florian-nemoz",
+    "storage_bucket": "tp-projet-mobile-florian-nemoz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175844725567:android:d357d87652b750f4b7f98a",
+        "android_client_info": {
+          "package_name": "com.example.applicationdegestiondelivres2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175844725567-ic06i9fpdtvpqugb43gtoaifh1krh876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLZ1Tc-ECzir8anHTRZzMwwEg5Kz9_fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175844725567-ic06i9fpdtvpqugb43gtoaifh1krh876.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
